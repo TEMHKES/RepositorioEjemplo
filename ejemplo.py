@@ -11,3 +11,8 @@ def suma(a,b):
 print(suma(5,2))
 
 print("Funciona funciona")
+
+c=3*3*3
+d=c*2
+
+print(d)
