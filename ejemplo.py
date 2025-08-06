@@ -27,3 +27,9 @@ print("Marco Antonio")
 print("Claro")
 
 print("clAROO123")
+
+
+
+print("Periquito Bandolero")
+
+print("007 james")
