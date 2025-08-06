@@ -9,3 +9,5 @@ def suma(a,b):
     suma_num=a+b
     return suma_num
 print(suma(5,2))
+
+print("Funciona funciona")
