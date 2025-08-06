@@ -19,3 +19,11 @@ print("Hola Marco Antonio P. Chavez Huiza")
 print("continuación")
 print("ahora como cambio esto:")
 print("Funciono Bien, asi que todo okei Marquito Antonio Pascual Chavez Huiza")
+
+print("Claro que si claro que no")
+
+print("Marco Antonio")
+
+print("Claro")
+
+print("clAROO123")
